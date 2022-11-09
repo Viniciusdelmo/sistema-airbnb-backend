@@ -8,7 +8,7 @@
 O presente estudo tem por obejtivo a criação do backend de um sistema de aluguel de casas. A página deve:
 
 - [x] Criar usuário
-- [x] Permitir ao usuário cadastrar sua casa para aluguel
+- [x] Permitir ao usuário cadastrar sua casa para aluguel (**cadastro com foto da casa**)
 - [x] Permitir ao usuário atualize dados de sua casa
 - [x] Permitir ao usuário delete sua casa do sistema
 - [x] Listar todas as casas cadastradas no sistema
